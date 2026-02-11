@@ -1,0 +1,32 @@
+{
+  "name": "interacter",
+  "version": "1.0.0",
+  "description": " A simple package that allows dev to interact with the CLI by accepting user input and displaying output with customizable behavour like restricting the some characters. It can live listen to user input to prevent so",
+  "keywords": [
+    "input",
+    "input_and_output",
+    "iostream",
+    "cli",
+    "interacter",
+    "output",
+    "reader",
+    "debug",
+    "userinput",
+    "ios"
+  ],
+  "homepage": "https://github.com/ElktrumElk/IOS#readme",
+  "bugs": {
+    "url": "https://github.com/ElktrumElk/IOS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElktrumElk/IOS.git"
+  },
+  "license": "ISC",
+  "author": "Elktrum Elk",
+  "type": "module",
+  "main": "ios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
