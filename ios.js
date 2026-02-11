@@ -158,6 +158,7 @@ export async function writeLine(...arg) {
 }
 
 
+/**Under construction */
 export const highlight = (arg, prmpt) => {
 
     process.stdout.write('\r\x1b[2K');
