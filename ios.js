@@ -2,7 +2,7 @@ import { colors } from "./colors.js"
 let c = new colors();
 
 
-export class Input {
+export default class Input {
 
     constructor() {
         this.input = "";
