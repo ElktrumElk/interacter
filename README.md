@@ -39,4 +39,14 @@ main (async () => {
 Installation `npm install interacter`;
 Importation `import Input from "./ios"`
 
+## Modules
+- Input
+- writeLine: Just as console.log() but plain
+- int: convert to integer numbers
+- keypress: listen to keyboard event
+- main
+
+### Note
+All module should be used within the main module for proper behavour.
+
   
