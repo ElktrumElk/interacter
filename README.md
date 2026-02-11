@@ -14,7 +14,7 @@ main (async () => {
   await username.readl("Enter your username: ");
   await password.readl("Enter your password: ");
   
-  writeLine(username, password);
+  writeLine(username.value, password.value);
 
 });
 ```
