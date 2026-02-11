@@ -1,6 +1,6 @@
 {
   "name": "interacter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": " A simple package that allows dev to interact with the CLI by accepting user input and displaying output with customizable behavour like restricting the some characters. It can live listen to user input to prevent so",
   "keywords": [
     "input",
