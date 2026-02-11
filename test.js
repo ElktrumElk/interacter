@@ -1,5 +1,7 @@
+import Input from "./node_modules/interacter/ios.js"
+import { main } from "./node_modules/interacter/ios.js"
 
-let value = "hey how are you"
-let g = value.split(" ", 2)
 
-console.log(g);
+main(async () => {
+    const username = new Input()
+})
