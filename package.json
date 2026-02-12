@@ -14,13 +14,13 @@
     "userinput",
     "ios"
   ],
-  "homepage": "https://github.com/ElktrumElk/IOS#readme",
+  "homepage": "https://github.com/ElktrumElk/interacter#readme",
   "bugs": {
-    "url": "https://github.com/ElktrumElk/IOS/issues"
+    "url": "https://github.com/ElktrumElk/interacter/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElktrumElk/IOS.git"
+    "url": "git+https://github.com/ElktrumElk/interacter.git"
   },
   "license": "ISC",
   "author": "Elktrum Elk",
