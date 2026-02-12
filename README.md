@@ -37,7 +37,7 @@ main (async () => {
 - Store value
 
 Installation `npm install interacter`;
-Importation `import Input from "./ios"`
+Importation `import Input from "interacter"`
 
 ## Modules
 - Input
