@@ -1,0 +1,1 @@
+export function interacter(element: string): void;
